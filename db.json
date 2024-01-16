@@ -1,0 +1,51 @@
+{
+  "tasks": [
+    {
+      "taskName": "Code apps",
+      "category": "Programming",
+      "status": {
+        "active": false,
+        "activatedTime": ""
+      },
+      "taskHistory": [],
+      "tags": [
+        "react",
+        "javascript"
+      ],
+      "id": 1
+    },
+    {
+      "taskName": "Clean house",
+      "category": "Housework",
+      "status": {
+        "active": false,
+        "activatedTime": ""
+      },
+      "taskHistory": [],
+      "tags": [
+        "important"
+      ],
+      "id": 2
+    },
+    {
+      "taskName": "Feed the dog",
+      "category": "Other",
+      "status": {
+        "active": false,
+        "activatedTime": ""
+      },
+      "taskHistory": [],
+      "tags": [
+        "important",
+        "pets"
+      ],
+      "id": 3
+    }
+  ],
+  "categories": [
+    "Programming",
+    "Studies",
+    "Housework",
+    "Other"
+  ]
+}
